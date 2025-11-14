@@ -59,7 +59,6 @@ dependencies = [
     "arabic-reshaper",
     "websockets", # new in 2023.2 for session.py
     # for the app
-    "wxPython >= 4.1.1",
     "markdown-it-py",
     "requests",
     "future", # py2app issues https://github.com/ronaldoussoren/py2app/issues/531
